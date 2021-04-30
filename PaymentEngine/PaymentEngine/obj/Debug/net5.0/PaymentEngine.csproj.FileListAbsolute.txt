@@ -1,0 +1,15 @@
+/Users/samuelnettey/code/PaymentProcessingCORP/PaymentEngine/PaymentEngine/bin/Debug/net5.0/PaymentEngine.deps.json
+/Users/samuelnettey/code/PaymentProcessingCORP/PaymentEngine/PaymentEngine/bin/Debug/net5.0/PaymentEngine.runtimeconfig.json
+/Users/samuelnettey/code/PaymentProcessingCORP/PaymentEngine/PaymentEngine/bin/Debug/net5.0/PaymentEngine.runtimeconfig.dev.json
+/Users/samuelnettey/code/PaymentProcessingCORP/PaymentEngine/PaymentEngine/bin/Debug/net5.0/PaymentEngine.dll
+/Users/samuelnettey/code/PaymentProcessingCORP/PaymentEngine/PaymentEngine/bin/Debug/net5.0/ref/PaymentEngine.dll
+/Users/samuelnettey/code/PaymentProcessingCORP/PaymentEngine/PaymentEngine/bin/Debug/net5.0/PaymentEngine.pdb
+/Users/samuelnettey/code/PaymentProcessingCORP/PaymentEngine/PaymentEngine/obj/Debug/net5.0/PaymentEngine.csprojAssemblyReference.cache
+/Users/samuelnettey/code/PaymentProcessingCORP/PaymentEngine/PaymentEngine/obj/Debug/net5.0/PaymentEngine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelnettey/code/PaymentProcessingCORP/PaymentEngine/PaymentEngine/obj/Debug/net5.0/PaymentEngine.AssemblyInfoInputs.cache
+/Users/samuelnettey/code/PaymentProcessingCORP/PaymentEngine/PaymentEngine/obj/Debug/net5.0/PaymentEngine.AssemblyInfo.cs
+/Users/samuelnettey/code/PaymentProcessingCORP/PaymentEngine/PaymentEngine/obj/Debug/net5.0/PaymentEngine.csproj.CoreCompileInputs.cache
+/Users/samuelnettey/code/PaymentProcessingCORP/PaymentEngine/PaymentEngine/obj/Debug/net5.0/PaymentEngine.dll
+/Users/samuelnettey/code/PaymentProcessingCORP/PaymentEngine/PaymentEngine/obj/Debug/net5.0/ref/PaymentEngine.dll
+/Users/samuelnettey/code/PaymentProcessingCORP/PaymentEngine/PaymentEngine/obj/Debug/net5.0/PaymentEngine.pdb
+/Users/samuelnettey/code/PaymentProcessingCORP/PaymentEngine/PaymentEngine/obj/Debug/net5.0/PaymentEngine.genruntimeconfig.cache
